@@ -31,4 +31,4 @@ Projeyi kendi bilgisayarınızda çalıştırmak için aşağıdaki adımları i
    streamlit run main.py
 
 ![Arayüz 1](UI-1.png)
-![Arayüz 2](UI - 2.png)
+![Arayüz 2](UI-2.png)
