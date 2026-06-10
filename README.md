@@ -15,16 +15,17 @@ Bu sistem şu kütüphaneler ve framework'ler üzerine inşa edilmiştir:
 Projeyi kendi bilgisayarınızda çalıştırmak için aşağıdaki adımları izleyin:
 
 1. **Repoyu Klonlayın:**
-
-2. **Sanal Ortam Oluşturun (Önerilir):**
+    git clone https://github.com/Zuuhal/DeepFake-Detection---Web-UI-
+   
+3. **Sanal Ortam Oluşturun (Önerilir):**
     python -m venv venv
    **Windows:**
    .\venv\Scripts\activate
    **Linux/macOS:**
    source venv/bin/activate
 
-3. **Gerekli Kütüphaneleri Kurun:**
+4. **Gerekli Kütüphaneleri Kurun:**
    pip install -r requirements.txt
 
-4. **Uygulamayı Başlatın:**
+5. **Uygulamayı Başlatın:**
    streamlit run main.py
