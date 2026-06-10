@@ -1,0 +1,9 @@
+streamlit
+opencv-python
+numpy
+torch
+torchvision
+einops
+librosa
+moviepy
+Pillow
