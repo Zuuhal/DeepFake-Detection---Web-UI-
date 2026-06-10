@@ -18,9 +18,9 @@ Projeyi kendi bilgisayarınızda çalıştırmak için aşağıdaki adımları i
 
 2. **Sanal Ortam Oluşturun (Önerilir):**
     python -m venv venv
-   # Windows:
+   **Windows:**
    .\venv\Scripts\activate
-   # Linux/macOS:
+   **Linux/macOS:**
    source venv/bin/activate
 
 3. **Gerekli Kütüphaneleri Kurun:**
